@@ -1,3 +1,11 @@
+//ECO --> Enciclopedia de aperturas de ajedrez (Encyclopedia of Chess Openings)
+
+//La Defensa Alekhine es una apertura semiabiabierta que queda planteada después del movimiento: peón e4, caballo f6
+//Esto se da cuando un bando trata de evitar poner un peón en el centro, evitando que el enemigo tenga un objetivo de ataque. En contraparte, intentan eliminar el peón central del enemigo, forzando su defensa o su
+//avance en una fase temprana de la apertura, por lo que intentan debilitarlo y tomar la iniciativa. Es una apertura muy aguda, pero debido al juego tan restringido que tiene, es una jugada poco vista en torneos.
+
+//FEN --> Forsyth-Edwards Notation
+//
 [
   {
     "name": "Alekhine Defense",
